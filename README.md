@@ -1,6 +1,6 @@
 Cài đặt
 npm install
-npm run dev
+npm start
 
  API Endpoints
  Users
